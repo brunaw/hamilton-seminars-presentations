@@ -8,3 +8,9 @@ Abstracts & schedule available at: https://www.maynoothuniversity.ie/hamilton/se
 
 - [Penny-wise and pound-foolish: quantifying the effectiveness of password advice policies](pdfs/Hazel.pdf), October 15th, 2019
 
+- [Reducing a polynomial matrix to an equivalent second order polynomial matrix](pdfs/Eleni.pdf), November 19th, 2019
+
+- [Regularization in Random Forests](http://brunaw.com/slides/seminar-serie/presentation.html), November 26th, 2019
+
+
+
